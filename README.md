@@ -57,5 +57,5 @@ plt.ylabel("DM-Nucleon cross-section (cm2)")
 To install `lhctodd` from PyPI
 
 ```bash
-pip install --user git+https://github.com/mcremone/lhctodd.git#egg=lhctodd
+pip install --user git+https://github.com/mcremone/lhctodd.git
 ```
