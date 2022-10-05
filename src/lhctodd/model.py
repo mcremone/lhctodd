@@ -1,6 +1,7 @@
 from .tools import __data_path__
 from .tools import dd_format
 from scipy import interpolate
+import numpy as np
 
 import lmdb
 import pickle
